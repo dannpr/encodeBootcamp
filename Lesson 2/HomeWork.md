@@ -4,7 +4,7 @@
 
 ## 2. Make a fork of mainnet from the command line (you may need to setup an Infura or Alchemy account)
 
-    Command line for the fork
+Command line for the fork
 
 ```bash
    npx hardhat console --network hardhat
